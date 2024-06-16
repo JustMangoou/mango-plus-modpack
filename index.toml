@@ -27,6 +27,11 @@ hash = "58134b8f4cca95555746efad25cc8a56c39ed57ba05f78d3aa61b603d378180c"
 metafile = true
 
 [[files]]
+file = "mods/appleskin.pw.toml"
+hash = "420663a6a26a3d60ca7bd07f942ba7ab3379daaf26772181a040e2caf97ff6e7"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "71ddbffcb32c6464a78584525eb48da3e0727ba8de4105ed9bac19351ac38698"
 metafile = true
@@ -34,6 +39,21 @@ metafile = true
 [[files]]
 file = "mods/better-mount-hud.pw.toml"
 hash = "84aff1dbe507de81e3f7cef7011f7e97ec557c40f0164cbd0b8640a4899ef48a"
+metafile = true
+
+[[files]]
+file = "mods/better-ping-display-fabric.pw.toml"
+hash = "ce455f3b3549ff0974cd10658aeb66f2ff39ea069c4c0d38f2ef8c692fabb3d5"
+metafile = true
+
+[[files]]
+file = "mods/better-stats.pw.toml"
+hash = "3eac250a5bf00ba69b40c88c04e5522260d0cb83ccc0ef7fb0b495acb3651914"
+metafile = true
+
+[[files]]
+file = "mods/betterf3.pw.toml"
+hash = "3335118064b224948f44cded8492164421d14a640363709251a3c09a3c8861fc"
 metafile = true
 
 [[files]]
@@ -247,6 +267,11 @@ hash = "7cb74081033769dbc3d65702e4ddcf83e4a8152f7e6122ea50d7e98909c3e549"
 metafile = true
 
 [[files]]
+file = "mods/tcdcommons.pw.toml"
+hash = "cf9a5ab75ecff8efbb84f083bbc4cf8d5008398584924c53374bb314b5853bb7"
+metafile = true
+
+[[files]]
 file = "mods/xaeros-minimap.pw.toml"
 hash = "8fa876040c642ee78f3b835aa5273daad3a2817ee86ec5975d103a240da9648e"
 metafile = true
@@ -272,134 +297,6 @@ hash = "a1f0a2f11467455c534b84500a09f65756804ff4ea53797d654ef6726f5082c2"
 metafile = true
 
 [[files]]
-file = "packwiz.md"
-hash = "db7acd8709e5ef280ad41b84145a6ce55de992d0eb18c5f900114ce0b14f8bbf"
-
-[[files]]
-file = "packwiz_completion.md"
-hash = "9c7912818c49dd831dc8cdef969d0557b36fb97759835a1de69c9bd296f07ecc"
-
-[[files]]
-file = "packwiz_completion_bash.md"
-hash = "a135a844cd9a366d566f6e8a7fb8ae27e4d9414dfa2bef08a313f7f0fe6e049e"
-
-[[files]]
-file = "packwiz_completion_fish.md"
-hash = "34076a9789ba22327fe385f0b930558302b85282c9b40d44a63881c51da50a98"
-
-[[files]]
-file = "packwiz_completion_powershell.md"
-hash = "b76dd5efbcd8b17c467e2f7ae5653256beb94a194aca88042ec9bdf7126ce736"
-
-[[files]]
-file = "packwiz_completion_zsh.md"
-hash = "c846b92519141b1898ff7115ea6a77ba74434241f0afc5c508fa66b1f440d9fe"
-
-[[files]]
-file = "packwiz_curseforge.md"
-hash = "4a4e4222f7a318199384b8e2934ac8cdc4d6f587d7e0e52608ac0bc746211d46"
-
-[[files]]
-file = "packwiz_curseforge_add.md"
-hash = "6c268528d19b33423fc36351790b81027e6c54c510218d3a080fd0bac31ffbb1"
-
-[[files]]
-file = "packwiz_curseforge_detect.md"
-hash = "0e557e5905c4812c97de37d0762479d99ad4b712663aa0dd0c85bd4712fe833e"
-
-[[files]]
-file = "packwiz_curseforge_export.md"
-hash = "9508efe4170d0ed8d27697bf2b562141ac0f89deb2e27b3ab91faaf1929029f0"
-
-[[files]]
-file = "packwiz_curseforge_import.md"
-hash = "89d736c3c787bb47863992a893a8a6b35d46068a66be0afff9ea65573e20df08"
-
-[[files]]
-file = "packwiz_curseforge_open.md"
-hash = "e4c10a214e36c0d94859e2bd62d9c1ebd294f2822f04203b15c3dbcb00403af2"
-
-[[files]]
-file = "packwiz_init.md"
-hash = "8c6bf7b7857e64dd17fb53b9676263af5fdfe8c1634286263a1967729cbf0bcd"
-
-[[files]]
-file = "packwiz_list.md"
-hash = "1f60f243a982f4727edcfaa575736dc95bf70dbdf3068f13ed84b7914b872bb6"
-
-[[files]]
-file = "packwiz_migrate.md"
-hash = "043da3231b6fa890c5e94fffe41a6340afcacdb5e20245a365a2b294b2de7f5a"
-
-[[files]]
-file = "packwiz_migrate_loader.md"
-hash = "23a42a3ca6726751bf14765ddb6ac5444e3ab1869ee1a2e8577f5eac26e7056d"
-
-[[files]]
-file = "packwiz_migrate_minecraft.md"
-hash = "b4bce46d5d1bcd52d20b0382d118c0531ab86cb5a3c464f0534aa9234cc23955"
-
-[[files]]
-file = "packwiz_modrinth.md"
-hash = "cee710d192b05edea4c4a61e88cf924fe6b8ee460f03dc1fd6c297556f496977"
-
-[[files]]
-file = "packwiz_modrinth_add.md"
-hash = "485a395d6bf0529cc8aa7ed49b8cee9c21c26729d372fd6c501bf6a064d0b667"
-
-[[files]]
-file = "packwiz_modrinth_export.md"
-hash = "57729f8d85b271cd546620190a654c1012f835fa5e0145841e8d20a47f016ca6"
-
-[[files]]
-file = "packwiz_pin.md"
-hash = "aa6f560068b3cc9b087441bb7f4196113792adf72d151be7955b20808acd588f"
-
-[[files]]
-file = "packwiz_refresh.md"
-hash = "d1806b2622be436655414e8c6f810eecc948f32bd0fce1fcdb391168150aa1ab"
-
-[[files]]
-file = "packwiz_remove.md"
-hash = "fb7f5875b34082594f231efd01b4bac0985d024ba89b0a343a6e6c3a44b99801"
-
-[[files]]
-file = "packwiz_serve.md"
-hash = "eca2bd119936a3ff7a6aa19fea2bb79bb468fd7efdd353331d5454a15ca5e736"
-
-[[files]]
-file = "packwiz_settings.md"
-hash = "30129b77ccff0d9bb842e06390762cdeb212b41b5eb15b18addc6af3ec00cf63"
-
-[[files]]
-file = "packwiz_settings_acceptable-versions.md"
-hash = "ed6aeff567097bf63561d7a6ab266fe3e5865e72fdc40328cf3d0c4174af8a3e"
-
-[[files]]
-file = "packwiz_unpin.md"
-hash = "d48fe52cbeafa937841a2b93e234d59e133af726e14884c89dbccdbe66808561"
-
-[[files]]
-file = "packwiz_update.md"
-hash = "8733d601dee2388cde6b3a484f7d811da7c289d7bc1c9820c268ea4de5f03f64"
-
-[[files]]
-file = "packwiz_url.md"
-hash = "b1011e71ccf2ab693dae4884df823f5e9830c874ca693238bea000b2c46cf861"
-
-[[files]]
-file = "packwiz_url_add.md"
-hash = "5db059484fc9653d570c75a107082f6b48c109ce11775729586f54a70231897d"
-
-[[files]]
-file = "packwiz_utils.md"
-hash = "83271b313fd3f98ee17fd8d2d68648c46cff4c60becab830d70975e6782a39d5"
-
-[[files]]
-file = "packwiz_utils_markdown.md"
-hash = "86c5d7215135023a5e78ade817e3f6f5065948e32deb6c845b153d5df55623a4"
-
-[[files]]
 file = "resourcepacks/chat-reporting-helper.pw.toml"
 hash = "a1c72f9ca36f2bd3f811cef6b4eb3cdd1d07e5c920bced7140ae237eba1c7ccd"
 metafile = true
@@ -407,6 +304,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/default-dark-mode.pw.toml"
 hash = "3605969b0c53956a4e39112e2571e10a77ebc4c3acc512c199b148eb1aa07b57"
+metafile = true
+
+[[files]]
+file = "resourcepacks/even-better-enchants.pw.toml"
+hash = "369852a15ba98f38e88e116d61be97323eeed834a5b06bc6ab36b30a2fde2d76"
 metafile = true
 
 [[files]]
