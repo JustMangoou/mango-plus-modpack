@@ -1,0 +1,16 @@
+name = "Mango Plus"
+author = "Just Mango"
+version = "1.1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "654ab9c59cea5dc315756be2e6e944ff8101192dca1c927a8e23ddafdfc036a7"
+
+[versions]
+fabric = "0.15.11"
+minecraft = "1.21"
+
+[options]
+acceptable-game-versions = ["1.20.5", "1.20.6"]
