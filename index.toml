@@ -37,6 +37,16 @@ hash = "71ddbffcb32c6464a78584525eb48da3e0727ba8de4105ed9bac19351ac38698"
 metafile = true
 
 [[files]]
+file = "mods/badpackets.pw.toml"
+hash = "529f85e7837b766acfd4031d3563d5d96f4d0a83f00dd5328a1b943abda3f8b9"
+metafile = true
+
+[[files]]
+file = "mods/better-clouds.pw.toml"
+hash = "0dd2990204bdaa6aa69e1414fb1c6c8e4c134d5c95aca17aa1b14a260bd6027b"
+metafile = true
+
+[[files]]
 file = "mods/better-mount-hud.pw.toml"
 hash = "84aff1dbe507de81e3f7cef7011f7e97ec557c40f0164cbd0b8640a4899ef48a"
 metafile = true
@@ -53,7 +63,22 @@ metafile = true
 
 [[files]]
 file = "mods/betterf3.pw.toml"
-hash = "3335118064b224948f44cded8492164421d14a640363709251a3c09a3c8861fc"
+hash = "7c801232a6e7b3930c6c6f47f2c4cd77a539f28bc41e6d54e1710c2736d8a46f"
+metafile = true
+
+[[files]]
+file = "mods/blur-fabric.pw.toml"
+hash = "9c699d5d353104ac3f42a20042b3b62f1e22c35bdd47ac3a7c1a0c89eee55b6e"
+metafile = true
+
+[[files]]
+file = "mods/capes.pw.toml"
+hash = "df21d4923d61c8d9199e602cca45695b7d17295fa8555f072d8d83045946ef3e"
+metafile = true
+
+[[files]]
+file = "mods/chunks-fade-in.pw.toml"
+hash = "72480d08269245cf3a692706994c95004b91d8afe212cf3314575ef8e16a7e93"
 metafile = true
 
 [[files]]
@@ -108,7 +133,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "be48577ddce9c70b87e1c479ea185bdda3d677f8e408e7f6eb2618e29b3303fe"
+hash = "e9870688b5c78a9cc50f79922fdac81e1999279f5567cd5092952adaf6471313"
 metafile = true
 
 [[files]]
@@ -128,7 +153,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabrishot.pw.toml"
-hash = "9138aef0a4542e5b57ea2bd91453f63f2c1d1e1b0dcced016fab12943dae6b11"
+hash = "fb9771f28f1fb92ff6b6e049ce18c458f679351a782143c18407fba8546d066e"
 metafile = true
 
 [[files]]
@@ -143,7 +168,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "fc8ae39ef4edbdb8e23ec91a10d1ef42c0fc569b5c8d633d7c584bfd55daa8bc"
+hash = "dfc7306d9eeaa3f4ddb22e6ef73141eba09f1891a584fdeeacaa9fbb2d182a77"
 metafile = true
 
 [[files]]
@@ -192,6 +217,11 @@ hash = "732e3a5fb7d7c41c380d1ba92118293db75d5a7f2c05a6df6ac04c54c4bd1a22"
 metafile = true
 
 [[files]]
+file = "mods/make_bubbles_pop.pw.toml"
+hash = "ac2ca5caef9ddb4fd53c035bfaf07026f12bcdb162d19c2fa473bdec8fbec630"
+metafile = true
+
+[[files]]
 file = "mods/malilib.pw.toml"
 hash = "5ebcbbc4dd47f3404aef8a90a85bb7ed9ca3af063c367c727d22cfe365b2b6dc"
 metafile = true
@@ -208,12 +238,12 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "191874e7f32413e363fb002b721061b5ed885896e38974738a4f6faf080668de"
+hash = "0232ec9d048fafef4d30897343834e6958580863be3ba53ce85abe80ba799878"
 metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "7f1ea1175d5541f7d733b3fd5c7d1b6f69f1d41cb0c96260342580fb6036ab9b"
+hash = "9c603d7cea1e1b60317400b25490a93051f7e73204c337d815ac1dc53132a421"
 metafile = true
 
 [[files]]
@@ -228,7 +258,12 @@ metafile = true
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
-hash = "b6c8fe81a75bc2c3292ef642e62985c2d9e270ad26f7aa044ff33b906425e8a8"
+hash = "100a5dfaccb55b107edc57e11fafc1222dc443ce9b669f0d79a39b488e3e45ae"
+metafile = true
+
+[[files]]
+file = "mods/not-enough-animations.pw.toml"
+hash = "8221d0376bdd5c13684d44ce2dcfc994f4aeea8d21546b9a562e71517ba1ce80"
 metafile = true
 
 [[files]]
@@ -238,7 +273,7 @@ metafile = true
 
 [[files]]
 file = "mods/paginatedadvancements.pw.toml"
-hash = "21823879f9078de028a62b7e19b0c8d3b7922423bcb8d28c0a44c2e7496bc5c8"
+hash = "47f673ce50dc6fdfd8e40f47035b9454b1130298f77dec65c14908fa4955213b"
 metafile = true
 
 [[files]]
@@ -252,13 +287,33 @@ hash = "8bae302cbab6f2412138f3cfd283688f6613be80f1f25329decc715e0b748b7d"
 metafile = true
 
 [[files]]
+file = "mods/presence-footsteps.pw.toml"
+hash = "5bef9a443c12a13d5eeefa60bbb0a40ef99ab8a0675cd335a6cc2520dc5ba33b"
+metafile = true
+
+[[files]]
 file = "mods/puzzle.pw.toml"
-hash = "8be9dbb2abf2cdd5fb92f8fb64884a109fff9669c21e7f2c0aa1c31196ffd868"
+hash = "b36d95833b8ec416f259a52e367f9e31e5f2b770be844f08abec6553335205c2"
 metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "46af7d3bd6fec707eb0d9aac51c4cd1a85888266cf250b4dae7b2780487df7fb"
+metafile = true
+
+[[files]]
+file = "mods/rei.pw.toml"
+hash = "2217144fc3c02492f7c3479396917478df02ebed1566514dbe1c3dae4fe46059"
+metafile = true
+
+[[files]]
+file = "mods/shulkerboxtooltip.pw.toml"
+hash = "c928b6ccb5f44c8d483a794c01728a0afe6a4e5f83a5c19e58a86f19f1952748"
+metafile = true
+
+[[files]]
+file = "mods/smooth-scroll.pw.toml"
+hash = "04dc212e2e70ebdc19fc7aa48d3e734ba8486e68774527a58347427eb2432ee6"
 metafile = true
 
 [[files]]
@@ -272,18 +327,38 @@ hash = "7cb74081033769dbc3d65702e4ddcf83e4a8152f7e6122ea50d7e98909c3e549"
 metafile = true
 
 [[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "aada4cd63f86d67e01f89f68f9ae898b423125dbf3caf8487d54666f409cc9db"
+metafile = true
+
+[[files]]
 file = "mods/tcdcommons.pw.toml"
 hash = "cf9a5ab75ecff8efbb84f083bbc4cf8d5008398584924c53374bb314b5853bb7"
 metafile = true
 
 [[files]]
+file = "mods/visual-overhaul.pw.toml"
+hash = "0d506562cee3a509fe2bc5240bc431ae01c61c8f21a7ebab310af96e7ac1c24c"
+metafile = true
+
+[[files]]
+file = "mods/wavey-capes.pw.toml"
+hash = "47dddf611d70f7d64bae2084265a60d19d537054922c7412df6ddbed511aeb3d"
+metafile = true
+
+[[files]]
+file = "mods/wthit.pw.toml"
+hash = "b15ae18c9a99153df8ee3ab0c171c01003a6b5e565047c5fa2762dd66cb22340"
+metafile = true
+
+[[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "8fa876040c642ee78f3b835aa5273daad3a2817ee86ec5975d103a240da9648e"
+hash = "9f590e02371a224d8a005ec5f6fe0f025f1b3642345c17d1feaa2cb4f4028fdd"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "08d3dd914a003e402612bfeb60bcb31e5060d07058be7c691faa44413c182f57"
+hash = "e9f628cc8d3a658a9b0ceb2272993d0dd9f5736aad1fb8178e6071cd63a8438e"
 metafile = true
 
 [[files]]
@@ -298,7 +373,7 @@ metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "a1f0a2f11467455c534b84500a09f65756804ff4ea53797d654ef6726f5082c2"
+hash = "f46ac3c4cc5da490427ecc666bd30146bc175903867f10a01d270d97d39cc289"
 metafile = true
 
 [[files]]
